@@ -1,5 +1,5 @@
 // Change this address to match your deployed contract!
-const contract_address = "0xeD6e922a4fA3978A652d2BA7253Df055C2BF79C9";
+const contract_address = "0x763326819ef8fd986a806f2b23e32ab0cb24c9a2"; //https://sepolia.etherscan.io/tx/0x1e73b5a6290bbe2fa3a0779ad27432675cb0aac078065464568d7b8ec58bcf8d
 
 const dApp = {
   ethEnabled: function() {
