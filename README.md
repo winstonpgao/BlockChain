@@ -10,6 +10,19 @@ CryptoRight is a decentralized application (dApp) for managing and transferring 
 - **Lookup by ID:** Instantly fetch and display metadata and ownership for any copyright ID.
 - **MetaMask Support:** All blockchain actions require MetaMask and run fully in your browser.
 
+## Quick Start
+
+1️⃣ **Install MetaMask**  
+[https://metamask.io/en-GB/download](https://metamask.io/en-GB/download)
+
+2️⃣ **Get free Sepolia ETH (testnet):**  
+- [Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)  
+- [Alchemy Faucet](https://www.alchemy.com/faucets/ethereum-sepolia)
+
+3️⃣ **Register for a free Pinata API key (for IPFS image upload):**  
+[https://pinata.cloud/](https://pinata.cloud/)
+
+
 **Contract on Sepolia:** 
 The smart contract address for this dApp is: 0x763326819ef8fd986a806f2b23e32ab0cb24c9a2
  
