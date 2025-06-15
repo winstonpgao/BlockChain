@@ -1,4 +1,4 @@
-# CryptoRight NFT Copyright System
+# Blockchain NFT Copyright System
 https://winstonpgao.github.io/BlockChain/#
 
 ## Summary
