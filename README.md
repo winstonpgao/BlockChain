@@ -6,4 +6,4 @@ This application is a copyright management system built on the Ethereum blockcha
 
 ### Demo App
 
-Click [here]([cryptoright-frontend/index.html](https://winstonpgao.github.io/BlockChain/#)) to launch the CryptoRight application.
+Click [here](https://winstonpgao.github.io/BlockChain/#) to launch the CryptoRight application.
