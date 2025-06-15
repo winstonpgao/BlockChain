@@ -10,8 +10,9 @@ CryptoRight is a decentralized application (dApp) for managing and transferring 
 - **Lookup by ID:** Instantly fetch and display metadata and ownership for any copyright ID.
 - **MetaMask Support:** All blockchain actions require MetaMask and run fully in your browser.
 
+**Contract on Sepolia:** 
 The smart contract address for this dApp is: 0x763326819ef8fd986a806f2b23e32ab0cb24c9a2
-
+ 
 ## Tech Stack
 
 - **Solidity & Ethereum:** Secure NFT contract and logic
