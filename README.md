@@ -1,4 +1,4 @@
-# CryptoRight Blockchain Copyright System
+# CryptoRight NFT Copyright System
 
 ## Summary
 
