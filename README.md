@@ -42,7 +42,7 @@ Built with smart contracts and IPFS, this dApp empowers creators to protect and 
 ## 📜 Smart Contract
 
 **Live Demo**
-🚀 [Launch CryptoRight App](https://winstonpgao.github.io/Image-Copyright-NFT-Marketplace-CryptoRight-/)
+🚀 [Launch CryptoRight App](https://winstonpgao.github.io/CryptoRight-Image-Copyright-NFT-Minting-dApp/)
 
 
 **Deployed on Sepolia Testnet**  
