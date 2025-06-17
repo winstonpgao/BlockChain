@@ -41,6 +41,10 @@ Built with smart contracts and IPFS, this dApp empowers creators to protect and 
 
 ## 📜 Smart Contract
 
+**Live Demo**
+🚀 [Launch CryptoRight App](https://winstonpgao.github.io/Image-Copyright-NFT-Marketplace-CryptoRight-/)
+
+
 **Deployed on Sepolia Testnet**  
 🧾 Contract Address: `0x763326819ef8fd986a806f2b23e32ab0cb24c9a2`
 
@@ -52,12 +56,6 @@ Built with smart contracts and IPFS, this dApp empowers creators to protect and 
 - **IPFS + Pinata** – Decentralized file and metadata storage
 - **JavaScript + Web3.js** – Client-side blockchain integration
 - **Materialize CSS** – Lightweight and responsive UI design
-
----
-
-## 🌐 Live Demo
-
-🚀 [Launch CryptoRight App](https://winstonpgao.github.io/BlockChain/#)
 
 ---
 
